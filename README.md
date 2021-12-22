@@ -1,7 +1,7 @@
 # Group5-ds-project-regression
 Group Repository to work on our regression project together 
 ---
-Hi Both I created this Repo so we could work together please feel free to add any notes here. I'm thinking once we review everything we can write our names under each of our assigned tasks below
+Hi Both I created this Repo so we could work together please feel free to add any notes here. I'm thinking once we review everything we can write our names under each of our assigned tasks below. If ever you need to reach me please feel free to write me on Discord our you can also email me if needed at chrisferreiracosta@hotmail.com.
 ---
 For now it looks like we will be using the COVID19_Qc_RapportINSPQ_HistoVigie.csv file for our data which I placed in the Covid-Data fpolder on this repo
 ---

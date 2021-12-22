@@ -4,6 +4,24 @@ Group Repository to work on our regression project together
 Hi Both I created this Repo so we could work together please feel free to add any notes here. I'm thinking once we review everything we can write our names under each of our assigned tasks below. If ever you need to reach me please feel free to write me on Discord our you can also email me if needed at chrisferreiracosta@hotmail.com.
 ---
 For now it looks like we will be using the COVID19_Qc_RapportINSPQ_HistoVigie.csv file for our data which I placed in the Covid-Data fpolder on this repo. https://github.com/ChrisFCosta/Group5-ds-project-regression/blob/main/Covid-Data/COVID19_Qc_RapportINSPQ_HistoVigie.csv
+
+I found the index for all of the column headers here but only in French:
+
+https://docplayer.fr/202664831-Liste-de-variables-et-notes-methodologiques-covid-19-portrait-quotidien-des-cas-confirmes.html
+
+Although here are a few I think we'll need translated to English:
+
+**Nb_Cas_Cumulative:** Cumulative number of confirmed cases for all of Quebec. Confirmed cases include laboratory-confirmed cases and those confirmed by epidemiologic linkage. Cases with an unknown reporting date are not included in the roll-up by date.
+
+**Nb_Nvx_Cas:** Number of new confirmed cases for all of Quebec according to the reporting date.
+
+**Nb_Cas_Actifs:** Number of active cases for all of Quebec.
+
+**Nb_Deces_Cumulatif_Total:** Cumulative number of deaths, all living environments combined, for all of Quebec. Deaths with an unknown date of death are not included in the cumulative by date.
+
+**Nb_Nvx_Deces_Total:** Total number of new deaths for all of Quebec by date of death.
+
+
 ---
 ## Our task
 
